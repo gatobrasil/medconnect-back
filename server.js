@@ -1,0 +1,1 @@
+// Código completo do servidor com Express, JWT, bcrypt, etc.
